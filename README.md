@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**Suchir-Ryali/suchir-ryali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My recent achivements:
 
-Here are some ideas to get you started:
+- Broadcom Science Fair Entrant
+- Coding with Commitment Scholar
+- Eye Level Math Olympiad Gold Medalist
+- STL Science Fair, First Place
+- Pfizer Scholarship, on project AlzheimerSolved
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I do:
+
+- FLL (First Lego League)
+- US MathLeague
+- US MathCounts
+- Kangaroo Math
+- US Math Olympiad
+- You Be the Chemist
+
+Please email ryalisuchir@gmail.com with any questions.
